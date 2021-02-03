@@ -60,5 +60,7 @@ namespace OrderDataBase
             //Program.Main(null);
             Process.Start(@"C:\Users\Davor\source\repos\OrderDataBase\ConTest_WPF_CON_CS\bin\Release\ConTest_WPF_CON_CS.exe");
         }
+
+        // Mal sehen was gegittet wird
     }
 }

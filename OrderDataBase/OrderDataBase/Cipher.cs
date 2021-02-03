@@ -45,9 +45,6 @@ namespace OrderDataBase
             return Convert.ToBase64String(bytesEncrypted);
         }
 
-        // Kommentar
-
-        // Noch ein Kommentar
         /// <summary>
         /// Decrypt-Method decrypts the string from the encrypted text with the same password
         /// </summary>
