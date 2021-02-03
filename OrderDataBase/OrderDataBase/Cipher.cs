@@ -48,8 +48,6 @@ namespace OrderDataBase
         // Kommentar
 
         // Noch ein Kommentar
-
-        // Neuer Kommentar Branches
         /// <summary>
         /// Decrypt-Method decrypts the string from the encrypted text with the same password
         /// </summary>
