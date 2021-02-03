@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderDataBase", "OrderDataBase\OrderDataBase.csproj", "{51C4B53D-36F7-4BAE-9038-85998D6D0D10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConTest_WPF_CON_CS", "ConTest_WPF_CON_CS\ConTest_WPF_CON_CS.csproj", "{8BCD5C17-7A25-4BF4-B55E-97FF158F4028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51C4B53D-36F7-4BAE-9038-85998D6D0D10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C4B53D-36F7-4BAE-9038-85998D6D0D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C4B53D-36F7-4BAE-9038-85998D6D0D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C4B53D-36F7-4BAE-9038-85998D6D0D10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BCD5C17-7A25-4BF4-B55E-97FF158F4028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCD5C17-7A25-4BF4-B55E-97FF158F4028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCD5C17-7A25-4BF4-B55E-97FF158F4028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCD5C17-7A25-4BF4-B55E-97FF158F4028}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E82B986B-915B-43C9-BA3D-8EFED8A645AF}
+	EndGlobalSection
+EndGlobal

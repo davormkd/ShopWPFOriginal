@@ -1,0 +1,58 @@
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\bin\Release\OrderDataBase.exe.config
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\bin\Release\OrderDataBase.exe
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\bin\Release\OrderDataBase.pdb
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\obj\Release\OrderDataBase.csprojAssemblyReference.cache
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\obj\Release\KundeAnlegen.g.cs
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\obj\Release\MainWindow.g.cs
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\obj\Release\OrderView.g.cs
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\obj\Release\ProdukteBestellungen.g.cs
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\obj\Release\ShopOwner.g.cs
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\obj\Release\TextHashing.g.cs
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\obj\Release\App.g.cs
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\obj\Release\OrderDataBase_MarkupCompile.cache
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\obj\Release\OrderDataBase_MarkupCompile.lref
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\obj\Release\KundeAnlegen.baml
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\obj\Release\MainWindow.baml
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\obj\Release\OrderView.baml
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\obj\Release\ProdukteBestellungen.baml
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\obj\Release\ShopOwner.baml
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\obj\Release\TextHashing.baml
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\obj\Release\OrderDataBase.g.resources
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\obj\Release\OrderDataBase.Properties.Resources.resources
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\obj\Release\OrderDataBase.csproj.GenerateResource.cache
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\obj\Release\OrderDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\obj\Release\OrderDataBase.exe
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\obj\Release\OrderDataBase.pdb
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\bin\Release\ConTest_WPF_CON_CS.exe
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\bin\Release\ConTest_WPF_CON_CS.pdb
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\bin\Release\ConTest_WPF_CON_CS.exe.config
+C:\Users\Davor\source\repos\OrderDataBase\OrderDataBase\obj\Release\OrderDataBase.csproj.CopyComplete
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\bin\Release\OrderDataBase.exe.config
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\bin\Release\OrderDataBase.exe
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\bin\Release\OrderDataBase.pdb
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\bin\Release\ConTest_WPF_CON_CS.exe
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\bin\Release\ConTest_WPF_CON_CS.pdb
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\bin\Release\ConTest_WPF_CON_CS.exe.config
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\obj\Release\OrderDataBase.csprojAssemblyReference.cache
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\obj\Release\KundeAnlegen.g.cs
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\obj\Release\MainWindow.g.cs
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\obj\Release\OrderView.g.cs
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\obj\Release\ProdukteBestellungen.g.cs
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\obj\Release\ShopOwner.g.cs
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\obj\Release\TextHashing.g.cs
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\obj\Release\App.g.cs
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\obj\Release\OrderDataBase_MarkupCompile.cache
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\obj\Release\OrderDataBase_MarkupCompile.lref
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\obj\Release\KundeAnlegen.baml
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\obj\Release\MainWindow.baml
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\obj\Release\OrderView.baml
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\obj\Release\ProdukteBestellungen.baml
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\obj\Release\ShopOwner.baml
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\obj\Release\TextHashing.baml
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\obj\Release\OrderDataBase.g.resources
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\obj\Release\OrderDataBase.Properties.Resources.resources
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\obj\Release\OrderDataBase.csproj.GenerateResource.cache
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\obj\Release\OrderDataBase.csproj.CoreCompileInputs.cache
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\obj\Release\OrderDataBase.csproj.CopyComplete
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\obj\Release\OrderDataBase.exe
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\OrderDataBase\obj\Release\OrderDataBase.pdb

@@ -1,0 +1,21 @@
+﻿<Window x:Class="OrderDataBase.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OrderDataBase"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="750">
+    <Grid>
+        <Button x:Name="KundenTab" Content="Kunde" HorizontalAlignment="Left" Margin="10,332,0,0" VerticalAlignment="Top" Width="116" Height="77" Click="KundenTab_Click"/>
+        <Button x:Name="Produkte" Content="Produkte" HorizontalAlignment="Left" Margin="131,332,0,0" VerticalAlignment="Top" Width="116" Height="77" Click="ProdukteTab_Click"/>
+        <Button x:Name="OrderView" Content="OrderView" HorizontalAlignment="Left" Margin="252,332,0,0" VerticalAlignment="Top" Width="116" Height="77" Click="OrderView_Click"/>
+        <Button x:Name="TextHashing" Content="Hashing" HorizontalAlignment="Left" Margin="373,332,0,0" VerticalAlignment="Top" Width="116" Height="77" Click="TextHashing_Click"/>
+        <Button x:Name="ExcelWorkbook" Content="ExcelWorkbook" HorizontalAlignment="Left" Margin="494,332,0,0" VerticalAlignment="Top" Width="116" Height="77" Click="ExcelWorkbook_Click"/>
+        <Button x:Name="CMD" Content="CMDOpen" HorizontalAlignment="Left" Margin="615,332,0,0" VerticalAlignment="Top" Width="116" Height="77" Click="CMD_Click"/>
+        <Label Content="Test" HorizontalAlignment="Left" Margin="373,301,0,0" VerticalAlignment="Top"/>
+        <Label Content="Test" HorizontalAlignment="Left" Margin="494,301,0,0" VerticalAlignment="Top"/>
+        <Label Content="Test" HorizontalAlignment="Left" Margin="615,301,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

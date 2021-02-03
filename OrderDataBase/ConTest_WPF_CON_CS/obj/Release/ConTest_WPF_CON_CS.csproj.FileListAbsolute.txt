@@ -1,0 +1,14 @@
+C:\Users\Davor\source\repos\OrderDataBase\ConTest_WPF_CON_CS\bin\Release\ConTest_WPF_CON_CS.exe.config
+C:\Users\Davor\source\repos\OrderDataBase\ConTest_WPF_CON_CS\bin\Release\ConTest_WPF_CON_CS.exe
+C:\Users\Davor\source\repos\OrderDataBase\ConTest_WPF_CON_CS\bin\Release\ConTest_WPF_CON_CS.pdb
+C:\Users\Davor\source\repos\OrderDataBase\ConTest_WPF_CON_CS\obj\Release\ConTest_WPF_CON_CS.csproj.CoreCompileInputs.cache
+C:\Users\Davor\source\repos\OrderDataBase\ConTest_WPF_CON_CS\obj\Release\ConTest_WPF_CON_CS.exe
+C:\Users\Davor\source\repos\OrderDataBase\ConTest_WPF_CON_CS\obj\Release\ConTest_WPF_CON_CS.pdb
+C:\Users\Davor\source\repos\OrderDataBase\ConTest_WPF_CON_CS\obj\Release\ConTest_WPF_CON_CS.csprojAssemblyReference.cache
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\ConTest_WPF_CON_CS\bin\Release\ConTest_WPF_CON_CS.exe.config
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\ConTest_WPF_CON_CS\bin\Release\ConTest_WPF_CON_CS.exe
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\ConTest_WPF_CON_CS\bin\Release\ConTest_WPF_CON_CS.pdb
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\ConTest_WPF_CON_CS\obj\Release\ConTest_WPF_CON_CS.csprojAssemblyReference.cache
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\ConTest_WPF_CON_CS\obj\Release\ConTest_WPF_CON_CS.csproj.CoreCompileInputs.cache
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\ConTest_WPF_CON_CS\obj\Release\ConTest_WPF_CON_CS.exe
+C:\Users\kressd\source\repos\Neuer Ordner\OrderDataBase\ConTest_WPF_CON_CS\obj\Release\ConTest_WPF_CON_CS.pdb

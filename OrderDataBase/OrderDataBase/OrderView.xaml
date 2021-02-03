@@ -1,0 +1,35 @@
+﻿<Window x:Name="Orderview" x:Class="OrderDataBase.OrderView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OrderDataBase"
+        mc:Ignorable="d"
+        Title="OrderView" Height="450" Width="800" Loaded="Orderview_Loaded">
+    <Grid>
+        <Button x:Name="btnHauptfenster" Content="Hauptfenster" Margin="0,0,10,10" Click="btnHauptfenster_Click" Height="66" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="149"/>
+        <DataGrid x:Name="dgvOrderProducts" AlternatingRowBackground="LightGray" Margin="239,10,10,81" IsEnabled="False" MouseDoubleClick="dgvOrderProducts_MouseDoubleClick"/>
+        <StackPanel HorizontalAlignment="Left" Height="101" Margin="10,10,0,0" VerticalAlignment="Top" Width="224">
+            <TextBox x:Name="txbMailLogin" Height="33" TextWrapping="Wrap" GotFocus="txbMailLogin_GotFocus" LostFocus="txbMailLogin_LostFocus"/>
+            <PasswordBox x:Name="pswBox" PasswordChar="*" Height="31" GotFocus="pswBox_GotFocus" LostFocus="pswBox_LostFocus"/>
+            <Button x:Name="btnLogin" Content="Login" Height="36" Click="btnLogin_Click"/>
+
+        </StackPanel>
+        <RichTextBox x:Name="rtbBestellungen" HorizontalAlignment="Left" Margin="10,116,0,81" Width="224">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="Bestellungen"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <Label x:Name="lblPreis" Content="" HorizontalAlignment="Left" Margin="10,0,0,50" Height="26" VerticalAlignment="Bottom"/>
+        <Button x:Name="btnBestellen" Content="Bestellen" HorizontalAlignment="Left" Margin="10,0,0,10" Width="75" Click="btnBestellen_Click" Height="35" VerticalAlignment="Bottom"/>
+        <Button x:Name="btnBestelungspeichern" Content="Speichern" HorizontalAlignment="Left" Margin="90,0,0,10" Width="75" Height="35" VerticalAlignment="Bottom" Click="btnBestelungspeichern_Click" IsEnabled="False"/>
+        <Button x:Name="btnBestellungloeschen" Content="Abbrechen" HorizontalAlignment="Left" Margin="170,0,0,10" Width="75" Height="35" VerticalAlignment="Bottom" Click="btnBestellungloeschen_Click"/>
+        <TextBox x:Name="txtSuche" Margin="239,0,164,50" TextWrapping="Wrap" FontStyle="Italic" Height="23" VerticalAlignment="Bottom" TextChanged="txtSuche_TextChanged" GotFocus="txtSuche_GotFocus" LostFocus="txtSuche_LostFocus"/>
+        <Label x:Name="lblSuche" Content="Suche..." Margin="0,0,164,50" FontStyle="Italic" IsEnabled="False" HorizontalAlignment="Right" Width="48" Height="23" VerticalAlignment="Bottom"/>
+        <Label x:Name="lblMail" Content="Mail" Margin="191,15,553,373" FontStyle="Italic" IsEnabled="False"/>
+        <Label x:Name="lblPasswort" Content="Passwort" Margin="169,46,553,340" FontStyle="Italic" IsEnabled="False"/>
+
+    </Grid>
+</Window>

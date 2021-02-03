@@ -1,0 +1,48 @@
+﻿<Window x:Class="OrderDataBase.KundeAnlegen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OrderDataBase"
+        mc:Ignorable="d"
+        Title="KundeAnlegen" Height="370" Width="648" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="103*"/>
+            <ColumnDefinition Width="537*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="txbVorname" HorizontalAlignment="Left" Height="23" Margin="10,12,0,0" TextWrapping="Wrap" Text="Vorname" VerticalAlignment="Top" Width="120" Foreground="#FF897676" GotFocus="txbVorname_GotFocus" LostFocus="txbVorname_LostFocus" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="txbStrasse" HorizontalAlignment="Left" Height="23" Margin="10,96,0,0" TextWrapping="Wrap" Text="Strasse" VerticalAlignment="Top" Width="120" Foreground="#FF897676" GotFocus="txbStrasse_GotFocus" LostFocus="txbStrasse_LostFocus" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="txbAlter" HorizontalAlignment="Left" Height="23" Margin="10,68,0,0" TextWrapping="Wrap" Text="Alter" VerticalAlignment="Top" Width="120" Foreground="#FF897676" GotFocus="txbAlter_GotFocus" LostFocus="txbAlter_LostFocus" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="txbNachname" HorizontalAlignment="Left" Height="23" Margin="10,40,0,0" TextWrapping="Wrap" Text="Nachname" VerticalAlignment="Top" Width="120" Foreground="#FF897676" GotFocus="txbNachname_GotFocus" LostFocus="txbNachname_LostFocus" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="txbPLZ" HorizontalAlignment="Left" Height="23" Margin="10,124,0,0" TextWrapping="Wrap" Text="PLZ" VerticalAlignment="Top" Width="120" Foreground="#FF897676" GotFocus="txbPLZ_GotFocus" LostFocus="txbPLZ_LostFocus" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="txbMail" HorizontalAlignment="Left" Height="24" Margin="10,152,0,0" TextWrapping="Wrap" Text="Mail" VerticalAlignment="Top" Width="120" Foreground="#FF897676" GotFocus="txbMail_GotFocus" LostFocus="txbMail_LostFocus" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="txbPassword" HorizontalAlignment="Left" Height="24" Margin="10,181,0,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top" Width="120" Foreground="#FF897676" GotFocus="txbPassword_GotFocus" LostFocus="txbPassword_LostFocus" Grid.ColumnSpan="2"/>
+        <Button x:Name="btnAdd" Content="Anlegen" HorizontalAlignment="Left" Margin="32.333,35,0,0" VerticalAlignment="Top" Width="66" Height="63" Click="btnAdd_Click" Grid.Column="1"/>
+        <DataGrid x:Name="dgvKunde" ItemsSource="{Binding}" Margin="103.333,10,10,85" SelectionChanged="dgvKunde_SelectionChanged" LoadingRow="dgvKunde_LoadingRow" Grid.Column="1"/>
+
+        <TextBox x:Name="txtID" HorizontalAlignment="Left" Height="24" Margin="10,210,0,0" TextWrapping="Wrap" Text="ID_Kunde" VerticalAlignment="Top" Width="120" IsEnabled="False" Grid.ColumnSpan="2"/>
+        <Button x:Name="btnEdit" Content="Ändern" HorizontalAlignment="Left" Margin="32.333,103,0,0" VerticalAlignment="Top" Width="66" Height="63" Click="btnEdit_Click" Grid.Column="1"/>
+        <Button x:Name="btnDelete" Content="Löschen" HorizontalAlignment="Left" Margin="32.333,171,0,0" VerticalAlignment="Top" Width="66" Height="63" Click="btnDelete_Click" Grid.Column="1"/>
+        <Button x:Name="btnHauptfenster" Content="Hauptfenster" Margin="0,0,10,43" Click="btnHauptfenster_Click" Height="33" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="149" Grid.Column="1"/>
+        <StatusBar Height="39" VerticalAlignment="Bottom" Grid.ColumnSpan="2">
+            <Label x:Name="lblCount" Content="-" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+            <Label x:Name="lblCPU" Content="-" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+            <Label x:Name="lblGraKa" Content="-" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        </StatusBar>
+        <TextBox x:Name="txtSuche" Margin="0,0,164,53" TextWrapping="Wrap" TextChanged="txtSuche_TextChanged" GotFocus="txtSuche_GotFocus" FontStyle="Italic" LostFocus="txtSuche_LostFocus" Height="23" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="270" Grid.Column="1"/>
+        <Label x:Name="lblSuche" Content="Suche..." Margin="0,0,164,53" VerticalAlignment="Bottom" FontStyle="Italic" Height="23" IsEnabled="False" HorizontalAlignment="Right" Width="48" Grid.Column="1"/>
+        <ComboBox x:Name="cmbInfo" Margin="10,0,439,44" SelectionChanged="cmbInfo_SelectionChanged" Grid.ColumnSpan="2" Height="36" VerticalAlignment="Bottom">
+            <ComboBoxItem>Name</ComboBoxItem>
+            <ComboBoxItem>DeviceID</ComboBoxItem>
+            <ComboBoxItem>AdapterRAM</ComboBoxItem>
+            <ComboBoxItem>AdapterDACType</ComboBoxItem>
+            <ComboBoxItem>Monochrome</ComboBoxItem>
+            <ComboBoxItem>InstalledDisplayDrivers</ComboBoxItem>
+            <ComboBoxItem>DriverVersion</ComboBoxItem>
+            <ComboBoxItem>VideoProcessor</ComboBoxItem>
+            <ComboBoxItem>VideoArchitecture</ComboBoxItem>
+            <ComboBoxItem>VideoMemoryType</ComboBoxItem>
+        </ComboBox>
+    </Grid>
+</Window>
